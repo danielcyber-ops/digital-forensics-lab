@@ -49,3 +49,20 @@ digital-forensics-lab/
 ├── Volatility/
 ├── Sleuth-Kit/
 └── PDFiD/
+
+## ⚖️ Disclaimer
+
+This repository contains personal learning notes, practical exercises, screenshots, and documentation created for educational and forensic research purposes.
+
+No proprietary software binaries, installers, licensed materials, confidential evidence, or copyrighted tool components are distributed through this repository.
+
+Forensic exercises are performed using legally obtained or intentionally created datasets.
+
+## 🎯 Purpose
+
+To develop practical skills in digital forensic investigation and document hands-on experience with commonly used forensic tools, techniques, and investigation workflows.
+
+---
+
+**Author:** Daniel  
+**Focus:** Digital Forensics | Cybersecurity | Forensic Investigation
